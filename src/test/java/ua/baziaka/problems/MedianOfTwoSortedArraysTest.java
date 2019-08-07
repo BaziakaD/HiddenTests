@@ -18,7 +18,7 @@ public class MedianOfTwoSortedArraysTest {
 
     @BeforeEach
     public void setUp() throws Exception {
-        toTestAlg = new MedianOfTwoSortedArrays4();
+        toTestAlg = new MedianOfTwoSortedArrays();
     }
 
     @ParameterizedTest

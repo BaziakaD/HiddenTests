@@ -3,7 +3,7 @@ package ua.baziaka.problems;
 /**
  * https://leetcode.com/problems/median-of-two-sorted-arrays/description/
  */
-public class MedianOfTwoSortedArrays4 {
+public class MedianOfTwoSortedArrays {
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
         int[] nums3 = new int[nums1.length + nums2.length];
 
